@@ -10,5 +10,6 @@ A physics-based puzzle game for Android, built using LiquidFun.
 
 To install **Boulder, Be Kind!** on your Android device:
 
-1. Download the `.apk` file available in this repository.
+1. Download the `.apk` file, named **Boulder, Be Kind.apk**, available in this repository.
 2. On your device, open the `.apk` file and follow the prompts to install.
+
